@@ -95,11 +95,7 @@ Now you can create the project:
 
 <img src="screenshots/screenshot-05-short.png"/>
 
-Use the ```Team Backlog``` template:
-
-<img src="screenshots/screenshot-06-short.png"/>
-
-We will work with this 5 columns. Please remove the default left most one:
+Use the ```Kanban``` template:
 
 <img src="screenshots/screenshot-07-short.png"/>
 
