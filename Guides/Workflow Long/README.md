@@ -1,8 +1,6 @@
 # Git step by step instructions
 
-This project includes step by step instructions to work with git, and github projects and issues as part of RiddleHunt Project in march 2024.
-
-This is not a guide to learn git. This is a guide to use git in a certain way, using github issues and projects.
+This project includes step by step instructions to work with git, and github projects and issues. This is not a guide to learn git. This is a guide to use git in a certain way, using github issues and projects.
 
 
 ## Prerequisites
