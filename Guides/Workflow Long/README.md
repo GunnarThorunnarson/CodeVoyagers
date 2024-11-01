@@ -91,7 +91,7 @@ Clic on the tab ```Projects``` and then create a new Project in Github.
 
 <img src="screenshots/screenshot-05-short.png"/>
 
-Use the ```Kanban``` template:
+Use the ```Kanban``` template (_click on View all_):
 
 <img src="screenshots/screenshot-07-short.png"/>
 
