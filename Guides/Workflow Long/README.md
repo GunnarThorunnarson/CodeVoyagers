@@ -89,10 +89,6 @@ Add the collaborators to the repository:
 
 Clic on the tab ```Projects``` and then create a new Project in Github.
 
-<img src="screenshots/screenshot-04-short.png"/>
-
-Now you can create the project:
-
 <img src="screenshots/screenshot-05-short.png"/>
 
 Use the ```Kanban``` template:
